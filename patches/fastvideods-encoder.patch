@@ -1,0 +1,88 @@
+diff --git a/FastVideoDSEncoder/FFMpegDecoder.cs b/FastVideoDSEncoder/FFMpegDecoder.cs
+index 04abb5a..01be996 100644
+--- a/FastVideoDSEncoder/FFMpegDecoder.cs
++++ b/FastVideoDSEncoder/FFMpegDecoder.cs
+@@ -46,7 +46,7 @@ namespace Gericom.FastVideoDSEncoder
+ 
+         static FFMpegDecoder()
+         {
+-            ffmpeg.RootPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "x64");
++            ffmpeg.RootPath = Environment.GetEnvironmentVariable("FFMPEG_LIB_DIR") ?? Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "x64");
+         }
+ 
+         public FFMpegDecoder(string srcPath, long startPts = 0, int videoStreamId = -1, int audioStreamId = -1)
+diff --git a/FastVideoDSEncoder/FastVideoDSEncoder.csproj b/FastVideoDSEncoder/FastVideoDSEncoder.csproj
+index 025a978..1895186 100644
+--- a/FastVideoDSEncoder/FastVideoDSEncoder.csproj
++++ b/FastVideoDSEncoder/FastVideoDSEncoder.csproj
+@@ -2,7 +2,7 @@
+ 
+   <PropertyGroup>
+     <OutputType>Exe</OutputType>
+-    <TargetFramework>net6.0</TargetFramework>
++    <TargetFramework>net8.0</TargetFramework>
+     <Authors>Gericom</Authors>
+     <Product>FastVideoDS Encoder</Product>
+     <Nullable>disable</Nullable>
+@@ -22,7 +22,7 @@
+ 
+   <ItemGroup>
+     <PackageReference Include="CommandLineParser" Version="2.9.1" />
+-    <PackageReference Include="FFmpeg.AutoGen" Version="5.1.1" />
++    <PackageReference Include="FFmpeg.AutoGen" Version="6.1.0.1" />
+   </ItemGroup>
+ 
+   <ItemGroup>
+diff --git a/FastVideoDSEncoder/FvEncoder.cs b/FastVideoDSEncoder/FvEncoder.cs
+index c20a08f..647c393 100644
+--- a/FastVideoDSEncoder/FvEncoder.cs
++++ b/FastVideoDSEncoder/FvEncoder.cs
+@@ -179,7 +179,7 @@ namespace Gericom.FastVideoDSEncoder
+                 }
+ 
+                 int consoleWidth = Console.BufferWidth;
+-                int barWidth     = consoleWidth - 3;
++                int barWidth     = Math.Max(consoleWidth - 3, 10);
+                 Console.SetCursorPosition(0, Console.GetCursorPosition().Top);
+                 Console.Write('[');
+                 int totalFrames = endFrames[^1];
+@@ -300,11 +300,11 @@ namespace Gericom.FastVideoDSEncoder
+                 while (!audioTask.IsCompleted)
+                 {
+                     int consoleWidth = Console.BufferWidth;
+-                    int barWidth     = consoleWidth - 3;
++                    int barWidth     = Math.Max(consoleWidth - 3, 10);
+                     Console.SetCursorPosition(0, Console.GetCursorPosition().Top);
+                     Console.Write('[');
+                     int totalFrames = endFrames[^1];
+-                    int done        = barWidth * f / totalFrames;
++                    int done        = Math.Clamp(barWidth * f / totalFrames, 0, barWidth);
+                     Console.Write(Enumerable.Repeat('#', done).ToArray());
+                     Console.Write(Enumerable.Repeat('.', barWidth - done).ToArray());
+ 
+diff --git a/FastVideoDSInfo/FastVideoDSInfo.csproj b/FastVideoDSInfo/FastVideoDSInfo.csproj
+index 7950cb0..4e54d24 100644
+--- a/FastVideoDSInfo/FastVideoDSInfo.csproj
++++ b/FastVideoDSInfo/FastVideoDSInfo.csproj
+@@ -2,7 +2,7 @@
+ 
+   <PropertyGroup>
+     <OutputType>Exe</OutputType>
+-    <TargetFramework>net6.0</TargetFramework>
++    <TargetFramework>net8.0</TargetFramework>
+     <ImplicitUsings>disable</ImplicitUsings>
+     <Nullable>disable</Nullable>
+     <RootNamespace>Gericom.FastVideoDSInfo</RootNamespace>
+diff --git a/Gericom.FastVideoDS/Gericom.FastVideoDS.csproj b/Gericom.FastVideoDS/Gericom.FastVideoDS.csproj
+index 05f917d..b08b48e 100644
+--- a/Gericom.FastVideoDS/Gericom.FastVideoDS.csproj
++++ b/Gericom.FastVideoDS/Gericom.FastVideoDS.csproj
+@@ -1,7 +1,7 @@
+ <Project Sdk="Microsoft.NET.Sdk">
+ 
+   <PropertyGroup>
+-    <TargetFramework>net6.0</TargetFramework>
++    <TargetFramework>net8.0</TargetFramework>
+   </PropertyGroup>
+ 
+   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

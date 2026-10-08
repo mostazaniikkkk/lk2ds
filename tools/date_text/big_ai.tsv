@@ -1,0 +1,109 @@
+# BIG date route: Ai Takano (dialogue bank RSC954, images 45BD-4606); her player choices are RSC936 29-56
+# Localization, not literal translation: casual spoken English, each girl keeps her own voice
+# (Ai: hyper, childlike, tacks "nano" onto everything; talks about herself as "Ai" in third person).
+# No stiff phrasing ("shall we", "it feels great").
+# Fit: at most 2 lines of ~38 characters in the DS dialogue box; use | to force a line break.
+# columns: bank	index	japanese	english
+AI	0	とうちゃーく！なの	Ta-daaa! Ai has arrived!
+AI	1	えへへ、ごめんね？まったの？	Ehehe, sorry! Were you waiting long?
+AI	2	えー・・・、そっか残念なの・・・	Aww... Oh. That's kind of a bummer...
+AI	3	うん、じゃあ、ちょうどよかったの♪	Okay! Then that's perfect timing~
+AI	4	えっへん、5分前精神の賜物なの！	Hehe! Ai always shows up|five minutes early!
+AI	5	今日は誘ってくれてありがとうなの！	Thanks for asking Ai out today!
+AI	6	うん！あいね、いーっぱい遊ぶの！	Yeah! Ai's gonna play sooo much!
+AI	7	うん！ぽかぽか陽気で過ごしやすいの	Uh-huh! It's all warm and toasty out!
+AI	8	むー！迷惑じゃないから大丈夫なの！	Hmph! You're not bothering Ai,|silly!
+AI	9	今日はね、早起きしてお弁当作ってきたの！	Guess what? Ai got up early|and made us a bento!
+AI	10	あいはほんとーに楽しみにしてたの！	Ai's been looking forward to this|sooo much!
+AI	11	二人だけでお出かけ、うれしいの～！	Just the two of us! Yaaay~!
+AI	12	遊園地は好きなの～？	Do you like amusement parks?
+AI	13	てへへ、一緒にたーくさん遊ぶの！	Tehehe! Let's play tons together!
+AI	14	てへへ、あいも何処でも大丈夫なの	Tehehe, Ai's happy anywhere too!
+AI	15	遊園地楽しみじゃないの・・・？	You're not excited for the park...?
+AI	16	みてー！バス来たの～♪出発進行なのー！	Look, the bus is here~!|All aboooard!
+AI	17	遊園地ってワクワクするの！	Amusement parks are so exciting!
+AI	18	（なんか、大人のカップルがいっぱいいるの）	(Whoa, there are so many|grown-up couples here...)
+AI	19	あ、うん！ちょっと照れるの・・・	Oh, um, yeah! Ai's just|a little embarrassed...
+AI	20	うー、あいと二人だけだといやなのぉ・・・？	Hmm... You don't like being|alone with Ai...?
+AI	21	いっぱいだよ～、あいから離れないでほしいの	So crowded~! Don't you dare|wander away from Ai!
+AI	22	遊園地はドキドキの連続なの！	The park's just thrill after thrill!
+AI	23	あわわ、いきなりそんな事言うとビックリするの！	Eep! Don't just say stuff like that|out of nowhere!
+AI	24	えへへ、ここは色んなこと忘れられるの	Ehehe, you can forget about|everything else here.
+AI	25	でも、新しいアトラクションが出来ると人もいっぱいなの	But a new ride means even|bigger crowds...
+AI	26	ねぇねぇ、早く行こうよ～！	Hey, hey, come on, let's go~!
+AI	27	レッツゴーなの！	Let's goooo!
+AI	28	占い大好きなの！	Ai loves fortune telling!
+AI	29	う・・・でも頑張ってみるの！	Ugh... B-but Ai'll be brave!
+AI	30	わーい！こっちこっち！	Yay! This way, this way!
+AI	31	うん、わかったの！	Okay, got it!
+AI	32	えへへ、あいね？お弁当作ってきたんだ！	Ehehe, guess what?|Ai made us a bento!
+AI	33	あいね？頑張って作ったの！食べて？	Ai worked really hard on it!|Eat up, okay?
+AI	34	タコさんウィンナーなの～！	Octopus wieners~!
+AI	35	えへへ、お弁当おいしかったの！	Ehehe, that bento was yummy!
+AI	36	お・・・お化け屋敷行ってみるの・・・？	W-we're really going into|the haunted house...?
+AI	37	うー・・・離れちゃやだよ・・・？	Nnn... don't leave Ai, okay...?
+AI	38	ぐすっ・・・一緒にいてくれてありがと・・・なの	*sniff*... Thanks for|staying with Ai...
+AI	39	えーーん！怖かったの！	Waaah! That was so scary!
+AI	40	占ってもらうの～！はやく、はやく～	Fortune time~! Hurry, hurry!
+AI	41	あいのお顔がうにょ～んってなってるの	Ai's face is all stretchy|and squishy in there!
+AI	42	わーい！とっても仲良しさんだって！	Yay! It says we're super close!
+AI	43	あの玉の中に何が映ってたのかな？	What do you think the crystal|ball showed?
+AI	44	観覧車楽しみなの！	Ai can't wait for the Ferris wheel!
+AI	45	あいたちのおうち見えるかな～？	Think we can see our place|from up here~?
+AI	46	あわわ！むぎゅ～。あ、ありがとなの・・・	Wah! *squish*... Th-thanks...
+AI	47	おうち見つからなかったの	Aww, Ai couldn't find our place...
+AI	48	スイーツもいっぱいあるの！	There's tons of sweets here too!
+AI	49	む～、この前教えたの！	Mmm! Ai told you just the|other day!
+AI	50	ほんと？！じゃあ、あのピンクの・・・カップのが気になるの	Really?! Then... that pink one|in the cup looks sooo good!
+AI	51	あいも大丈夫だから、次来る時まで取っておくの	Ai's okay too! Let's save it|for next time!
+AI	52	遊園地は夢の詰まった宝箱なの！	This park is a treasure chest|full of dreams!
+AI	53	うん、この場所を絶対護ってみせるの！	Yeah! Ai's gonna protect this|place, no matter what!
+AI	54	うん、一緒に遊んでくれてありがと・・・なの	Mm-hm... Thanks for playing|with Ai today.
+AI	55	えへへ、お手てぎゅっとしていい？	Ehehe, can Ai hold your hand?
+AI	56	まだまだたくさん遊ぶの～！	We're gonna play lots more~!
+AI	57	楽しそうなアトラクションがいっぱいなの！	So many fun-looking rides!
+AI	58	おみやげ何にしようかなぁ～なの	Hmm~ What souvenir should|Ai get~?
+AI	59	あー、全然時間が足りないの・・・	Aww, there's not nearly|enough time...
+AI	60	うんうん、可愛いものは正義なの！	Mm-hm! Cute things are justice!
+AI	61	時間が止まる魔法でもあればなの	If only there was a magic spell|to stop time...
+AI	62	ふあぁ、あいはもうおねむなのぉ～	Fwaah... Ai's getting sleepy~
+AI	63	また今度一緒に遊びにくるの！	Let's come play again sometime!
+AI	64	あ！ナイトパレード始まるの！見に行こーよ！	Ooh! The night parade's starting!|Let's go watch!
+AI	65	パレードって素敵なの・・・	The parade's so pretty...
+AI	66	あれ、おかしいな、ドキドキするの	Huh? That's weird...|Ai's heart is pounding.
+AI	67	夜まで一緒にいてくれてありがとなの	Thanks for staying with Ai|all the way till night.
+AI	68	迷子にならないようにお手て繋いでほしいの？	Wanna hold hands so we|don't get lost?
+AI	69	あのね、あのね・・・	Um, hey... um...
+AI	70	あいね、あ、あなたのこと・・・！	Ai... Ai really, really...!
+AI	71	えへへ、やっぱりなんでもなーい	Ehehe... never miiind!
+AI	72	だ、だーいすきなのー！	Ai l-loooves you!
+AI	73	こんな時間に呼び出してごめんなの、どうしても伝えたいことがあるの・・・	Sorry for calling you out so late.|Ai has something to tell you...
+#
+# Beat map (Ichigo index in [ ]; Ai's player choices are RSC936 29-56 -> big_choices.tsv):
+#   bus greeting      0 arrives [0], 1 "were you waiting?" ask -> 3 (C29 just got here), 4 (C30 you're early too);
+#                     2 "aww, a bummer" = leftover negative reply (best fit: C34 "not really into parks")
+#   thanks for date   5 ask [1 outfit slot; Ai has NO outfit question] -> 8 (C31 say no if it's a bother),
+#                     7 (C32 nice weather), 6 (C33 let's have a blast)
+#   bento promise     9 [14]; bus-stop chatter 10, 11
+#   likes the park?   12 ask [5/9 slot] -> 15 (C34 not really), 14 (C35 anywhere with you), 13 (C36 lots to do)
+#   bus comes         16 [15]
+#   park arrival      17 [16], 18 aside "so many adult couples" -> 20 (C37 should've invited everyone?),
+#                     19 (C38 what's up?), 21 (C39 so crowded)
+#   park thrills      22 ask [21 slot] -> 24 (C40 feel like a kid), 25 (C41 new ride coming), 23 (C42 because we're together?)
+#   pick a place      26 prompt [25], 27 reply [26]; per-place replies 31 lunch, 29 haunted (scared), 28 fortune, 30 Ferris
+#                     (C43-46 place names, C47-50 "how about X instead?" alternates)
+#   rest area / bento 32 made bento [28], 33 eat up [32], 34 octopus wieners [33 aah CG], 35 yummy [34]
+#   haunted house     36 [35], 37 [36], 38 thanks for staying [37 CG], 39 [38]
+#   fortune teller    40 [39], 41 [40 CG], 42 great match [41], 43 [42]
+#   Ferris wheel      44 [43], 45 ask [44] -> 53 (C54 protect this view), 54 (C55 glad you're having fun), 46 (C56 you're cute, +);
+#                     47 couldn't find home = closing line [~46]
+#   sweets (=churros) 48 ask [47] -> 49 (C51 what do you like again?, -), 51 (C52 I'm full), 50 (C53 I'll buy it, +)
+#   filler            52 [51 slot], 55-61 [54-61]
+#   evening           62 sleepy [62], 63 come again / head home [63]
+#   night parade      64 [64], 65 [65], 66 heart pounding [=Ichigo 67], 67 thanks for today [=Ichigo 66], 68 hold hands [68]
+#   confession        69 [69], 70 [70], 72 "I love you" [72]
+#   "never mind"      71 [71]
+#   night at base     73 [73]
+# Order differences vs Ichigo: no outfit/morning questions (first asks are "waiting long?" and "thanks for inviting
+# me"); bento promise early (9 vs 14); extra "do you like parks?" ask at the bus stop; place replies at 28-31 and
+# bento block from 32; food beat is sweets, not churros; 66/67 swapped vs Ichigo 66/67. Indices 62-73 line up 1:1.

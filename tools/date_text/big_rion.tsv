@@ -1,0 +1,102 @@
+# BIG date route: Rion Hato (dialogue bank RSC957, 73 lines) + player choices RSC936 (see big_ichigo.tsv)
+# Localization, not literal translation: casual spoken English, each girl keeps her own voice
+# (Rion: brash, tomboyish "cowgirl" swagger, gets flustered fast when things turn romantic).
+# Fit: at most 2 lines of ~38 characters in the DS dialogue box; use | to force a line break.
+# columns: bank	index	japanese	english
+RION	0	悪い悪い、まった？	My bad, my bad! You been waitin' long?
+RION	1	いきなりだけど、アタシの服さァ、率直にどう？	Outta nowhere, but... my outfit.|Be straight with me. How is it?
+RION	2	ちょっと攻め過ぎたかなぁ・・・	Guess I went a little too bold, huh...
+RION	3	そりゃ、良かったぜ！	Heh, that's what I like to hear!
+RION	4	う・・・、いざ言われるとなんか照れるなぁ・・・	Ugh... hearing it out loud is kinda|embarrassing...
+RION	5	へえ　アンタも気合い入ってるじゃん？	Huh! Look at you, all fired up too.
+RION	6	嫌いじゃないぜ、そのセンス！	Gotta say, I dig your style!
+RION	7	結構似合ってるぜ！	That looks pretty good on you!
+RION	8	ああ、そうなんだ・・・なんか　ノリ悪いぜ・・・	Oh... is that so. Way to kill|the mood...
+RION	9	あー、そのさ、今日のランチは期待しておいてくれよ	So, uh... about lunch today.|Get your hopes up, 'kay?
+RION	10	こうやって出かけるのは久しぶりだぜ	Been ages since I went out like this.
+RION	11	ほんと、今日は良い天気だぜ	Man, the weather's great today.
+RION	12	へへへ、あっちではまずナニするつもりだい？	Heheh. So what're we hittin' first|once we get there?
+RION	13	お、やるじゃん！お楽しみは後に取っておくからな！期待してるぜ！	Ooh, nice one! I'll save the fun for|later. Don't let me down!
+RION	14	ああ、いいぜ！りおん様に任せておきな	Sure! Leave it to the great Rion!
+RION	15	なんだそりゃ・・・忙しかったなら仕方ないけどよぉ	What's that supposed to mean...|Well, if you were busy, I guess...
+RION	16	バスの待ち時間もデートの醍醐味ってね。お、バスが来たぜ！	Waitin' for the bus is half the fun|of a date. Oh, here it comes!
+RION	17	いや～、遊園地はわくわくするぜ！	Man, amusement parks get me pumped!
+RION	18	(う～ん、しかし、カップルだらけだな)	(Hmm... sure are a lot of couples|around here.)
+RION	19	いや、なんでもない。気にすんな！	Nah, it's nothin'. Don't sweat it!
+RION	20	そ、そんな怖い顔をしていたか？・・・き、気にするな	W-was I makin' a scary face?|...F-forget about it.
+RION	21	あ、ああ・・・昔、迷子になりそうになったことあったっけ・・・	Oh, uh... I almost got lost at|a place like this once, as a kid...
+RION	22	それにしても、遊園地は何かこうドキドキするな！	Anyway, there's just somethin' about|amusement parks. My heart's racing!
+RION	23	あっはっは、周りみたいにもっとくっついてもいいぜ	Ahaha! You can snuggle up closer,|like everybody else here.
+RION	24	ああ、そうだな！	Yeah, you got it!
+RION	25	へえ、じゃあその時もエスコート頼むぜ？	Heh. Then you're escortin' me|that time too, got it?
+RION	26	さーて、どれを攻めるんだ？	Alright! Which one are we takin' on?
+RION	27	ＯＫ！それじゃ行こうか	OK! Let's roll!
+RION	28	あ！お化け屋敷だって、行ってみるか？	Oh! A haunted house!|Wanna give it a shot?
+RION	29	よし！決まりだな！	Alright! It's settled!
+RION	30	おう、構わないぞ	Sure, works for me.
+RION	31	う～ん、観覧車か・・・しょうがねぇな	Hmm, the Ferris wheel...|Fine, whatever.
+RION	32	特製のお弁当作ってきたんだ！	I made us a special homemade lunch!
+RION	33	へへ、料理にはちょっと自信があるんだ	Heh, I'm kinda proud of my cooking.
+RION	34	ほらほら、照れずに　あ～ん　って	C'mon, c'mon, don't be shy.|Say "aaah."
+RION	35	どうだい？美味かっただろ？	Well? Tasty, right?
+RION	36	さてさてお化けはどこかなぁ～っと	Now then... where're the ghosts|hidin'~?
+RION	37	怖かったら抱きついてもいいんだぜ～	If you get scared, you can grab onto|me, y'know~
+RION	38	面白かったじゃん！　またこようぜ	That was a blast! Let's come again!
+RION	39	結構面白かったな	That was pretty fun.
+RION	40	さぁさぁ、早く試してみようぜ～	C'mon, c'mon, let's try it already~
+RION	41	安心しなって、きっといいはずさぁ！	Relax! I bet it'll be great!
+RION	42	ほらな！バッチグーだぜ	See? Perfect match! Told ya!
+RION	43	ま、悪くはなかったけどな、次いこうぜぇ	Eh, it wasn't bad. Let's move on~
+RION	44	観覧車・・・思ったより高いなぁ	This Ferris wheel... it's higher|than I thought...
+RION	45	お・・・、乗ってみると意外にいい景色じゃん	Oh... once you're up here, the view's|actually pretty nice.
+RION	46	あ、ありがとな・・・	Th-thanks...
+RION	47	う・・・、調子に乗った・・・、た、高いとこは得意じゃないんだ	Ugh... I got cocky... I-I'm not|so great with heights...
+RION	48	美味そうなものも結構あるな	Lotta tasty-lookin' stuff here.
+RION	49	やっぱ！こう胃袋にガツンと来るやつだな！	Gotta be somethin' that really hits|you right in the gut!
+RION	50	ほんとか？じゃあ、任せたぜ	Yeah? Then I'm countin' on you.
+RION	51	そうなのか？ついつい、いちごの食べっぷりに慣れちまって	Really? Guess I'm too used to|watchin' Ichigo chow down...
+RION	52	遊園地ってパラダイスだよな	Amusement parks are paradise, huh?
+RION	53	へへ、前向きなのは好きだぜ？	Heh. I like that kinda attitude.
+RION	54	おう！非番になったらまた来てもいいぜ	Yeah! We can come back on my day off.
+RION	55	そんなこと言うと、なんか期待しちゃうぜぇ～	Sayin' stuff like that... you're|gonna get my hopes up~
+RION	56	アトラクションは全部やりたいぜ！	I wanna hit every ride in the place!
+RION	57	ついついテンションが上がっちまうぜ	Can't help gettin' all hyped up!
+RION	58	今夜は興奮して寝れなさそうだぜ	I'm gonna be too wired to sleep|tonight.
+RION	59	楽しい時間はあっという間だぜ	Time flies when you're havin' fun.
+RION	60	おみやげも考えないといけないぜ	Gotta figure out souvenirs, too.
+RION	61	あぁー、本当に楽しかったぜ	Aah, that was a total blast.
+RION	62	今日は帰るか、また今度一緒に来ようぜ？	Let's call it a day. Come back|with me sometime, yeah?
+RION	63	お！ナイトパレード開始だぜ！・・・その・・・見に行こうぜ？	Oh! The night parade's starting!|...So, uh... wanna go see?
+RION	64	幻想的・・・・だな・・・	It's... kinda magical...
+RION	65	へへ・・・、なんだか照れくさいじゃん・・・	Heh... this is kinda embarrassing...
+RION	66	今日は一緒に来てくれてありがとな	Thanks for comin' with me today.
+RION	67	・・・なんだよ・・・こっちばっか見てさ・・・？	...What? Why do you keep|starin' at me...?
+RION	68	あー、そ、そのだな・・・	Ah, w-well, the thing is...
+RION	69	いや、その・・・アンタのことが・・・	I mean... I... about you...
+RION	70	あー、悪い・・・忘れてくれよ	Ah... sorry. Just forget it.
+RION	71	だ、大好きだぜ？	I-I love you, y'know?
+RION	72	こんな時間に来てもらってわりぃな、どうしても伝えたいことがあって・・・	Sorry for draggin' you out this late.|There's somethin' I gotta tell you...
+# --- beat map (RSC957) ---
+# 0      greeting at the bus stop
+# 1-4    outfit question + reactions to choices 0-2 (2 = "too bold?" vs. Ichigo's "uniform next time")
+# 5-8    reactions to the morning-air choices 3-5 (5 zone, 6/7 praise, 8 = "still sleepy" buzzkill)
+# 9      lunch tease (Ichigo's is index 14)
+# 10-11  bus-stop small talk (been a while / nice weather)
+# 12-14  "what do we hit first?" + replies
+# 15     missed-bus / "I was busy" sulk (choice 28 path)
+# 16     bus arrives (Ichigo 15)
+# 17-23  park arrival: hyped, (lots of couples), scary face, almost got lost as a kid, "snuggle up"
+# 24-25  new attraction coming soon (Rion: "escort me then too")
+# 26-31  picking the next spot (haunted house suggested by Rion; 31 = reluctant Ferris wheel)
+# 32-35  bento (Rion made it; "aaah"; "tasty, right?")
+# 36-39  haunted house -- Rion is the brave one, teases the player (Ichigo was scared)
+# 40-43  fortune teller ("bacchi-goo" perfect match)
+# 44-47  Ferris wheel (47 = Rion admits she's bad with heights; opposite of Ichigo 12)
+# 48-55  food stalls / chat (51 = jab at Ichigo's appetite; 54 "day off" = 非番)
+# 56-62  idle park lines + "let's head home" (62)
+# 63-69  night parade, thanks, building up to the confession
+# 70     fake-out ("forget it")
+# 71     confession ("I love you")
+# 72     night at the base (late-night call-out)
+# Rion has 73 lines vs. Ichigo's 74: no separate "where to next?" (Ichigo 25/42) lines; most beats
+# shift down by 1-2 and her reactions are flipped (fearless in haunted house, scared on Ferris wheel).

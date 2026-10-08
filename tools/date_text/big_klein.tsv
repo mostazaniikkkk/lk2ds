@@ -1,0 +1,138 @@
+# BIG date route: Klein group date (all four come along; arrival lines are in RSC938)
+# banks: RSC958 = Koon, RSC959 = Short, RSC960 = Fold, RSC961 = Maia; index = index within own bank
+# Localization, not literal translation. Voices: Maia haughty/tsundere military leader who wanted
+# a date alone; Koon narcissistic tease (~ / <3); Short cocky, loud, easily spooked; Fold sleepy,
+# halting fragments ("...").
+# Fit: at most 2 lines of ~38 characters in the DS dialogue box; use | to force a line break.
+# columns: bank	index	japanese	english
+# bank 961 = Maia (マイア)
+MAIA	0	た、た、楽しみになどしてない	I-I-I was NOT looking forward to this!
+MAIA	1	な、何の話だ！じょ、冗談ばかり言ってると私は帰るぞ！	Wh-what are you talking about?!|Keep joking and I'm going home!
+MAIA	2	(なぜこいつらまでついてきたんだ・・・、ふ、ふたりっきりのはずだったのに・・・)	(Why'd these three tag along...?|It was supposed to be just us two...)
+MAIA	3	(こんなところに来るのは子供の時以来だな)	(Haven't been anywhere like this|since I was a kid.)
+MAIA	4	な、なんでもない！って言うか何も言ってない！	N-nothing! I mean, I didn't say|anything!
+MAIA	5	あ、当たり前だ！こんなところになど、用はないからな	O-of course! I have no business|in a place like this.
+MAIA	6	いろんなアトラクションがあるな	Hmph. Quite a few attractions here.
+MAIA	7	射撃型アトラクションか・・・リアリティさはないな。実際はもっとこう・・・（ハッ！いかんいかん）	A shooting ride? No realism at all.|Real combat is more like... (Stop it!)
+MAIA	8	なんだ貴様、あんなものに乗りたいのか？	What, you actually want to ride that?
+MAIA	9	高いところからの偵察に、一緒に乗ってやらんでもないぞ。・・・あ、あくまでも偵察でな	I suppose I'll join you for aerial|recon. ...S-strictly recon, mind you.
+MAIA	10	な・・・なるほど・・・ま、まあ・・・この高さなら・・・こんなもんだな・・・偵察、偵察っと	I-I see... w-well, at this height,|that's to be expected... Recon. Recon.
+MAIA	11	きゃあっ！・・・い、今のは聞かなかったことにしてくれ・・・頼む・・・	Kyaah! ...Y-you didn't hear that.|Please... I'm begging you...
+MAIA	12	ここにいる人間は皆幸せそうな顔をしているな	Everyone here looks so happy.
+MAIA	13	休みを満喫出来たな。さ、帰ろうか	That was a well-spent day off.|Come, let's head back.
+MAIA	14	おっ、パレードが始まる時間か・・・い、いくぞ・・・ついて来い	Oh, the parade's about to start...|C-come on. Follow me.
+MAIA	15	懐かしい・・・	This takes me back...
+MAIA	16	実は小さい頃にな、パパとマ・・・父と母にここと同じような所に連れてきてもらったことがあったんだ	When I was little, Papa and Ma-- my|parents took me someplace like this.
+MAIA	17	今日は連れてきてくれてありがとう	Thank you for bringing me today.
+MAIA	18	もっと前にいかないか	Let's move up closer.
+MAIA	19	な、なあ、・・・二度とこんな機会はないかもしれないから・・・	H-hey... I may never get another|chance like this, so...
+MAIA	20	私はお前のことが・・・	I... I feel that you...
+MAIA	21	・・・と、思ったが、また今度にする	...On second thought, some other time.
+MAIA	22	大好きだ！	I love you!
+MAIA	23	呼び出してすまない、伝え忘れたことがあった・・・	Sorry for calling you out here.|I forgot to tell you something...
+MAIA	24	あの・・・	Um...
+# bank 958 = Koon (クーン)
+KOON	0	もう♥　4人同時なんて、食いしん坊さんなんだから♪	Oh my<3 All four of us at once?|What a greedy boy you are~
+KOON	1	いいわよぉ、また今度ね♥	Fiiine. Next time, then<3
+KOON	2	あら、お迎えが来たようよ、行きましょう	Oh my, our ride's here. Let's go.
+KOON	3	男たちの視線を独り占めよ～ん♪	I've got every guy here staring|at me~
+KOON	4	ここでワタシを好きなだけ撮りなさい♪	Go on, take as many pictures of me|as you like~
+KOON	5	次はどこにいこうかしら	So, where to next?
+KOON	6	あっら～、そんなにワタシとの相性が知りたいの？	Ohhh? You're THAT curious how well|you and I match up?
+KOON	7	あら？一緒に入れるのは2人までですって。じゃ～あ・・・貴方はワタシと・・・イキたいんでしょ？	Oh? Only two can go in at a time.|Sooo... you wanna go with ME, right?
+KOON	8	ふぅん・・・ここにもワタシが映ってるわぁ	Mmm... there's me in this one, too.
+KOON	9	相性バッチリですって♪ついでに、夜の方も占ってもらえます～？	A perfect match~ Could you read our|compatibility at night, too~?
+KOON	10	あの鏡張りのお家すごかったわね♪ワタシの部屋もそうしようかしら	That mirror house was amazing~|Maybe I'll do my room like that.
+KOON	11	あのワタシと同じくらい眩しくて美しいものは何かしら？エスコートしてちょうだい♪	What's that, almost as dazzling as|me? Escort me over there~
+KOON	12	ふーん、綺麗なものね・・・	Hmm, it's pretty, I guess...
+KOON	13	ワタシとどっちが綺麗かしら？	But who's prettier, it or me?
+KOON	14	今日はワタシの魅力を存分に堪能できたかしら？	So? Did you get your fill of my|charms today?
+KOON	15	もっと前？仕方ないわね♪	Closer? Well, if I must~
+KOON	16	うふふ　見つめちゃってぇ・・・	Ufufu... look at you, staring~
+KOON	17	ねぇ・・・感じてる？	Hey... can you feel it?
+KOON	18	気が変わっちゃった♪	Oops, I changed my mind~
+KOON	19	続きはこのあとでね♪	The rest can wait till later~
+KOON	20	言い忘れたことがあったわぁ	I forgot to tell you something~
+KOON	21	あの・・・	So...
+KOON	22	ねぇ・・・	Hey...
+KOON	23	私をあ・げ・る♪	I'm giving you... a-l-l of me~
+# bank 959 = Short (ショート)
+SHORT	0	いやーっ、今日すっごい楽しみにしてたぞ！	Man, I was SO pumped for today!
+SHORT	1	だよなー！いっぱい遊ぶぞーっ！	Right?! We're gonna play all day!
+SHORT	2	何でVAで行かないんだ？その方が早くねぇ？	Why aren't we just taking the VA?|Wouldn't that be way faster?
+SHORT	3	とーちゃーっく！よっと！	Touchdooown! Hup!
+SHORT	4	じゃあ、案内しろ！	Okay, lead the way!
+SHORT	5	貴様・・・なぜショート様の方を見て言う・・・ぶっ飛ばすぞ	Hey... why're you looking at ME when|you say that? Want a beating?
+SHORT	6	え～っ！そんなの後でいいじゃん！	Whaaat? That stuff can wait!
+SHORT	7	やったねっ！そうこなくっちゃあ！お化け退治にレッツゴー！	Yeah! That's what I'm talkin' about!|Let's go bust some ghosts!
+SHORT	8	なんだ、みんなは行かないのか？・・・じゃ、じゃあ、ふ、二人で行くぞ！	What, nobody else is coming?|...F-fine! Just the two of us, then!
+SHORT	9	ま・・・ゲームと大して変わんないな	Eh... it's basically a video game.
+SHORT	10	ひっ！	Eek!
+SHORT	11	(ふう、危ない・・・不覚をとるとこだったぜ)	(Phew, close one... almost let my|guard down there.)
+SHORT	12	べ、別に怖いわけじゃないからな！	I-it's not like I'm scared or|anything!
+SHORT	13	なんでみんなあんなにヒーローばっかり応援するんだ？ま、所詮ガキだしな・・・	Why's everyone cheering for the hero?|Eh, they're just a bunch of kids...
+SHORT	14	あっという間に時間経っちゃったな～	Man, the time just flew by~
+SHORT	15	ん？あっちに人だかりが出来てるぞ、ちょっと行ってみようぜ！	Huh? There's a crowd over there.|Let's go check it out!
+SHORT	16	おお！なんだ！これ！	Whoa! What the heck is this?!
+SHORT	17	これは、これでいいもんだな	Huh. This is actually kinda nice.
+SHORT	18	今日は1日すっげぇ楽しかったぜ！	Today was freakin' awesome!
+SHORT	19	見えないから、前行くぞ！　早く来いよ！	I can't see! I'm going up front!|Hurry up!
+SHORT	20	えーっと、あのーだな・・・	Uh, so, um, the thing is...
+SHORT	21	これから言うぞ！むむむむむ・・・	I'm gonna say it! Nnnnngh...
+SHORT	22	やっぱ、なんでもないっ！	Never mind!
+SHORT	23	さささささささ察しろ！バカー！！	J-j-j-just figure it out already,|you idiot!!
+SHORT	24	言い忘れたことがある・・・	I forgot to tell you something...
+SHORT	25	むむむむ・・・	Mmmmmm...
+SHORT	26	ふんぬぐぐぐぐぐぐ・・・！	Hnnngh-ggggh...!
+SHORT	27	だぁあああああーーー！！！	Daaaaaaaaah!!!
+# bank 960 = Fold (フォールド)
+FOLD	0	うん・・・全然・・・だいじょうぶ・・・	Mm... totally... fine...
+FOLD	1	わたしも・・・食べる・・・	I'll... eat too...
+FOLD	2	昨日・・・教えてもらったてるてる坊主・・・作った・・・	Last night... I made that sunshine|doll... you showed me...
+FOLD	3	人が・・・たくさん・・・	So many... people...
+FOLD	4	・・・迷子に・・・なる・・・かも・・・	...I might... get lost...
+FOLD	5	あ・・・その・・・お弁当・・・作ってきた・・・	Oh... um... I made... lunch...
+FOLD	6	みんなの分・・・たくさん作ってきた・・・	Made lots... enough for everyone...
+FOLD	7	ふん・・・幸せ・・・	Mmh... happy...
+FOLD	8	みんなで食べるとおいしいね・・・	Food tastes better... together...
+FOLD	9	・・・いつもとちがって・・・特別・・・	...Not like usual... special...
+FOLD	10	むう・・・燃料不足・・・	Mmh... low on fuel...
+FOLD	11	これ、気持ちいい・・・もふもふ・・・ふふっ	This feels nice... so fluffy...|hehe...
+FOLD	12	そろそろ、日が暮れる・・・	The sun's... going down...
+FOLD	13	あれ、何かで見たやつ・・・ナイトパレード？・・・見たい・・・	I saw that... somewhere... a night|parade? ...Wanna see...
+FOLD	14	何この美味しそうなの・・・	What's this... looks yummy...
+FOLD	15	・・・ぴかぴか・・・	...Sparkly...
+FOLD	16	あれ、乗りたい・・・	I wanna... ride that...
+FOLD	17	もっと、前に・・・	Closer... to the front...
+FOLD	18	あ・・・その・・・	Oh... um...
+FOLD	19	ちょっと・・・近くに・・・	Come a little... closer...
+FOLD	20	・・・疲れた・・・	...Tired...
+FOLD	21	好きっす・・・	I like you... a lot...
+FOLD	22	言い忘れたことがある・・・	I forgot... to tell you something...
+FOLD	23	えっと・・・	Um...
+FOLD	24	その・・・	So...
+FOLD	25	ずっと・・・一緒にいる・・・	I'll stay... with you... forever...
+# --- beat map ---
+# The Klein date is a group date, so it is not one route per girl: each bank is a pool of lines the
+# script draws from per beat, and most beats are covered by only one or two of the four.
+# Beat assignment below is inferred from content (no script trace), so treat it as a best guess.
+# greeting/morning: SHORT 0-1 (hyped), MAIA 0-1 (tsundere denial), FOLD 0-2 (fine / teru teru bozu),
+#                   MAIA 2 ("why'd they come?"); no outfit beat for any of them (Ichigo 1-4)
+# bus:              SHORT 2 ("why not take the VA?"), KOON 2 (bus/ride arrives)
+# park arrival:     SHORT 3-5 (5 = reply to the "lost child" line, FOLD 3-4), MAIA 3-6
+# rides/choices:    MAIA 7 (shooting ride), KOON 3-5, KOON 1 (declines, "next time")
+# bento:            FOLD 5-9 (Fold makes lunch for everyone, not the girl being dated), KOON 0
+#                   ("all four at once?" if the player tries to eat everyone's), SHORT 6 (food can wait)
+# haunted house:    SHORT 7-12 (others bail, Short goes alone with the player, gets scared);
+#                   KOON 7-8, 10 = mirror house variant (two at a time; she admires herself)
+# fortune teller:   KOON 6, 9 (perfect match + innuendo)
+# Ferris wheel:     MAIA 8-11 ("aerial recon", screams); FOLD 16 (wants to ride); KOON 4 (photos)
+# food / misc:      FOLD 10-11, 14-15; SHORT 13 (hero show, Klein are the villains), SHORT 14-16; MAIA 12
+# head home:        MAIA 13, SHORT 18, KOON 14, FOLD 12, 20
+# parade:           MAIA 14-18 (childhood memory, thanks), KOON 11-16, SHORT 15-19, FOLD 13, 17
+# confession:       MAIA 19-20 -> 22; SHORT 20-21 -> 23; KOON 16-17 -> 23(?); FOLD 18-19 -> 21
+# fake-out:         MAIA 21, SHORT 22, KOON 18-19
+# base night:       MAIA 23-24, SHORT 24-27, KOON 20-23, FOLD 22-25
+# Differences from Ichigo: no outfit/morning beat; lunch is Fold's; the haunted house goes to Short
+# (or Koon's mirror house); Maia gets the Ferris wheel; each girl's base-night scene is its own
+# multi-line confession instead of Ichigo's single line 73.

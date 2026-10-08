@@ -1,0 +1,112 @@
+# BIG date route: Tsugumi Raiden (dialogue bank RSC956, images 4651-469B); her player choices are RSC936 86-113
+# Localization, not literal translation: casual spoken English, each girl keeps her own voice
+# (Tsugumi: earnest, polite, a little stiff; her samurai-ish speech (sessha / sonata / katajikenai) comes out as
+# slightly formal English, with stammering when flustered). No "shall we".
+# Fit: at most 2 lines of ~38 characters in the DS dialogue box; use | to force a line break.
+# columns: bank	index	japanese	english
+TSUGUMI	0	あ、おはよう！	Ah, good morning!
+TSUGUMI	1	気持ちのいい朝だな。昨日はよく眠れたか？	Lovely morning. Did you|sleep well last night?
+TSUGUMI	2	そ、そうか・・・睡眠は大事だからな！	I-I see... Good. Sleep is|important, after all!
+TSUGUMI	3	どうりで寝ぼけた顔をしているのか。仕事も大事だが無理は体に良くないぞ	So that's why you look half asleep.|Work matters, but don't overdo it.
+TSUGUMI	4	つ、つ、つ、つぐみちゃん！？・・・その呼び方は恥ずかしいな・・・	T-T-Tsugumi-CHAN!?|...That's a bit embarrassing...
+TSUGUMI	5	ほ、他のみんなと一緒じゃなくて・・・その・・・良かったのか？	Are you sure it's all right...|not bringing the others along?
+TSUGUMI	6	そ、そうだな・・・でえとだもんな・・・はははっ・・・	R-right... It IS a date,|after all... Ha ha ha...
+TSUGUMI	7	そうだな、みんなと行くのも楽しそうだ	True. Going with everyone|would be fun, too.
+TSUGUMI	8	そうであったか・・・	Ah... is that so...
+TSUGUMI	9	頑張ってお弁当を作ってみたんだ。お昼は楽しみにしていてくれ！	I made us a bento. I did my best,|so look forward to lunch!
+TSUGUMI	10	こうやって出かけるのは久しぶりだな	It's been a while since I've|gone out like this.
+TSUGUMI	11	良い天気になってよかったな	Good thing the weather held up.
+TSUGUMI	12	そなたが来てから、どのくらい経ったかな	How long has it been since|you first joined us?
+TSUGUMI	13	もうそんなになるか、もっと前からいるような気がするな・・・ふ、深い意味はないぞ・・・	Already? It feels like you've|always been here... N-no reason!
+TSUGUMI	14	またまたそんな冗談を、それではまるで幼馴染ではないか	Oh, stop joking. You make it|sound like we're childhood friends.
+TSUGUMI	15	栄養が足りてないのではないか？しっかり食べないとダメだぞ	Are you eating properly? You|need to keep your strength up.
+TSUGUMI	16	バスが来たぞ！では行こうか	The bus is here! Let's be off.
+TSUGUMI	17	うわぁ・・・すごい人だな・・・	Whoa... What a crowd...
+TSUGUMI	18	こんなに混んでると全て回るのは厳しそうだな	With crowds like this, we'll never|get to everything.
+TSUGUMI	19	（こんなに混んでると全て回るのは厳しそうだな）	(With crowds like this, we'll never|get to everything...)
+TSUGUMI	20	いや、なんでもない。気遣い無用だ	No, it's nothing.|There's no need to worry.
+TSUGUMI	21	そ、そんな怖い顔をしていたか？・・・き、気にするな	D-did I look that scary?|...P-pay it no mind.
+TSUGUMI	22	あ、ああ・・・（さっき拙者が言ったのだがな・・・）	Y-yes... (I just said that|a moment ago...)
+TSUGUMI	23	それにしても、遊園地とは何かこうワクワクするな！	Still, there's something about|amusement parks. It's exciting!
+TSUGUMI	24	う・・・うむ、照れるな・・・	Hm... W-well. That's|a little embarrassing...
+TSUGUMI	25	ああ、そうだな！	Yes, it really does!
+TSUGUMI	26	そうか！ならば、またその時に来られると良いな	Is that so! Then I hope we can|come back when it opens.
+TSUGUMI	27	どこかに移動しよう！	Let's head somewhere!
+TSUGUMI	28	うむ、行こうか！	Right, let's go!
+TSUGUMI	29	あ、あの観覧車とやらに乗ってみないか？	C-could we try riding that...|"Ferris wheel" thing?
+TSUGUMI	30	う・・・、わかった行ってみるか	Ngh... Fine. Let's go in.
+TSUGUMI	31	ふむ、構わないぞ	Hm. I don't mind.
+TSUGUMI	32	よし！では行こう！	Very well! Onward!
+TSUGUMI	33	うむ！そこに座って食べようぞ！	Right! Let's sit there and eat!
+TSUGUMI	34	く・・・口に合えばいいのだが	I-I hope it suits your taste...
+TSUGUMI	35	ほ、ほら。口を開けるのだ・・・	H-here. Open your mouth...
+TSUGUMI	36	腹はこなれて来たな！	That hit the spot.|I'm ready to go!
+TSUGUMI	37	ほ・・・ほんとに入るのか・・・？	W-we're really going in...?
+TSUGUMI	38	ひぃ！こ、怖くなどないぞ・・・	Eek! I-I am NOT scared...
+TSUGUMI	39	す、すまない・・・もう少しそばにいってもいいだろうか・・・	S-sorry... Would it be all right|if I stayed a little closer...?
+TSUGUMI	40	は・・・はは・・・	Ha... haha...
+TSUGUMI	41	・・・い、いざ参るぞ！	...H-here I go!
+TSUGUMI	42	（も、もしよくなかったら・・・）	(Wh-what if it's bad...)
+TSUGUMI	43	ふふふ、あ、相性ばっちりのようだぞ・・・？	Hehe... L-looks like we're|a perfect match...?
+TSUGUMI	44	可もなく不可もなく、・・・助かったな！	Not good, not bad...|Phew, that's a relief!
+TSUGUMI	45	これが観覧車か、近くで見ると大きいな！	So this is a Ferris wheel.|It's huge up close!
+TSUGUMI	46	ふ・・・二人っきりだな・・・	Hm... It's just the two of us...
+TSUGUMI	47	あ・・・、す、すまない・・・	Ah... S-sorry...
+TSUGUMI	48	自分で飛ぶのとはまた違うな	It's nothing like flying|on my own.
+TSUGUMI	49	美味しそうなものも結構あるな	Lots of tasty-looking food here.
+TSUGUMI	50	ん？拙者は、ふかし芋が・・・い、いちごのタ・・・タート？ル？だぞ・・・（何を言ってるんだ）	Hm? Steamed sweet potato... I mean,|strawberry tar... tarts! (What?!)
+TSUGUMI	51	よ、良いのか？かたじけない	R-really? You have my thanks.
+TSUGUMI	52	そうなのか？貧弱だな。いちご殿ならこれの十・・・いや、なんでもない！	Really? How feeble. Lady Ichigo|could eat ten... N-never mind!
+TSUGUMI	53	みなが幸せになれる空間だな	It's a place where everyone|can be happy.
+TSUGUMI	54	そうだな！明日からの鍛錬にも一段と気合いが入るというものだ！	Indeed! That'll fire me up|for training tomorrow!
+TSUGUMI	55	うむ！休みが取れたらまた来たいな	Yes! I'd like to come back|next time I get leave.
+TSUGUMI	56	そ、そんな・・・こと、・・・わ、わたしも・・・幸せ・・・だな	D-don't say... that...|I-I'm... happy too...
+TSUGUMI	57	（ヒーローショーか、ちょっと興味あるけど今日は我慢、我慢）	(A hero show... Tempting, but|not today. Restraint, restraint.)
+TSUGUMI	58	忍者屋敷はないのかな・・・	No ninja house here, I suppose...
+TSUGUMI	59	たまには羽を伸ばすのも良いか	I suppose it's fine to let loose|once in a while.
+TSUGUMI	60	門限のことも忘れてしまいそうだな	I might forget all about curfew.
+TSUGUMI	61	一瞬にして時が経ってしまうな	Time just flies by, doesn't it?
+TSUGUMI	62	何か記念になるものはないかな	I wonder if there's something|we could keep as a memento.
+TSUGUMI	63	うむ！楽しかったな！	Yes! That was fun!
+TSUGUMI	64	今日はもう帰るとするか！	Let's call it a day!
+TSUGUMI	65	む！『ぱれーど』が始まるようだな、見に行かないか	Hm! The "pa-rade" seems to be|starting. Want to go see?
+TSUGUMI	66	まるで夢の世界のようだな・・・	It's like a dream world...
+TSUGUMI	67	う、うむ・・・なんだか照れるな	Y-yes... This is kind of|embarrassing...
+TSUGUMI	68	今日はずっと一緒にいられて嬉しいぞ・・・	I'm glad I got to spend|the whole day with you...
+TSUGUMI	69	ふふ、どうかしたのか？	Heh. Is something wrong?
+TSUGUMI	70	うう・・・そ、その・・・	Ugh... W-well... um...
+TSUGUMI	71	せ、拙者・・・そなたのことが・・・	I-I... When it comes to you, I...
+TSUGUMI	72	も、申し訳ない・・・忘れてくれ	F-forgive me...|Forget I said anything.
+TSUGUMI	73	す、すす好きなんだ！	I-I l-love you!
+TSUGUMI	74	こんな夜更けにすまない、どうしても伝えたいことがあって・・・	Sorry to call you out so late.|There's something I must tell you...
+#
+# Beat map (Ichigo index in [ ]; Tsugumi's player choices are RSC936 86-113 -> big_choices.tsv):
+#   bus greeting      0 [0]
+#   "sleep well?"     1 ask [5 morning slot] -> 2 (C86 slept great), 3 (C87 buried in work), 4 (C88 "...Tsugumi-chan", flustered)
+#   just us two?      5 ask [1 outfit slot; Tsugumi has NO outfit question] -> 8 (C89 the others had plans, -),
+#                     7 (C90 invite everyone next time), 6 (C91 because it's a date, +)
+#   bento promise     9 [14]; bus-stop chatter 10, 11 weather [13]
+#   "how long here?"  12 ask [9 slot] -> 15 (C92 my memory's going), 14 (C93 we've always been together), 13 (C94 exactly half a year)
+#   bus comes         16 [15]
+#   park arrival      17 [16]; 18 spoken / 19 thought (same sentence; the bank's one extra entry) ->
+#                     21 (C95 you look grim), 22 (C96 so crowded), 20 (C97 what's wrong?)
+#   park thrills      23 ask [21 slot] -> 25 (C98 feel like a kid), 26 (C99 new ride coming), 24 (C100 because we're together)
+#   pick a place      27 prompt [25], 28 reply [26]; 29 she suggests the Ferris wheel herself;
+#                     place replies 30 haunted (reluctant), 31 / 32 accept (C101-103 + C106 places, C104/105/107 alternates)
+#   rest area / bento 33 sit & eat [31], 34 hope you like it [32], 35 say aah [33 CG], 36 after lunch [34]
+#   haunted house     37 [35], 38 [36], 39 stay closer [37 CG], 40 [38]
+#   fortune teller    41 [39], 42 [40 CG], 43 perfect match [41], 44 "so-so" alternate result
+#   Ferris wheel      45 [43], 46 just us two [44], 47 sorry (bump, CG) [45], 48 unlike flying myself;
+#                     view ask, prompt 53 "a place where everyone can be happy" [51 slot] ->
+#                     54 (C111 protect this view), 55 (C112 like it here?), 56 (C113 I'm happy too, +)
+#   food (=churros)   49 ask [47] -> 50 (C108 what do you like again?), 52 (C109 I'm full), 51 (C110 I'll buy it)
+#   filler            57-62 [54-61]
+#   evening           63 that was fun [62], 64 head home [63]
+#   night parade      65 [64], 66 [65], 67 embarrassed / heart [=Ichigo 67], 68 glad we spent the day [=Ichigo 66], 69 "what's wrong?" [68 slot]
+#   confession        70 [69], 71 [70], 73 "I love you" [72]
+#   "never mind"      72 [71]
+#   night at base     74 [73]
+# Order differences vs Ichigo: from 19 on every index is +1 vs Ai's bank (duplicate spoken/thought line 18/19),
+# so the ending lines are Ichigo's index +1; first asks are "sleep well?" and "OK without the others?" (no outfit
+# question); bento promise at 9; extra "how long have you been with us?" ask; she proposes the Ferris wheel herself
+# (29); fortune has an extra so-so result (44); Ferris CG lines (45-48) come before the food beat (49).

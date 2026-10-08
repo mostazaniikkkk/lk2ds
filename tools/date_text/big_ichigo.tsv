@@ -1,0 +1,108 @@
+# BIG date route: Ichigo (dialogue bank RSC955, images 4607-4650) + player choices RSC936 0-28
+# Localization, not literal translation: casual spoken English, each girl keeps her own voice
+# (Ichigo: bubbly, affectionate, a bit clumsy). No stiff phrasing ("shall we", "it feels great").
+# Fit: at most 2 lines of ~38 characters in the DS dialogue box; use | to force a line break.
+# columns: bank	index	japanese	english
+ICHIGO	0	ごめーん、待った？	Sorry, sorry! Have you been waiting long?
+ICHIGO	1	この服どうかな？	Sooo... what do you think of the outfit?
+ICHIGO	2	えー！じゃあ次は制服で来るね？	What?! Fine, next time I'm coming|in my uniform, then!
+ICHIGO	3	そっか！嬉しいな！	Really? Yay, that makes me happy!
+ICHIGO	4	えへへ、ありがと・・・	Ehehe... thank you.
+ICHIGO	5	朝は空気が澄んでて気持ちいいね	The air's so fresh in the morning.|I love it!
+ICHIGO	6	もう！ねぼすけさんだなー	Geez, you sleepyhead!
+ICHIGO	7	うん、さわやかな気になるね	Right? Makes you feel all brand new.
+ICHIGO	8	えへへ、キリッとしてて素敵だよ？	Ehehe, you look all serious.|It's kinda cool, actually.
+ICHIGO	9	遊園地で最初なにしよっか？	So what do we hit first at the park?
+ICHIGO	10	えへへ、お・・・お腹なったの聞こえちゃったかな？	Ehehe... d-did you just hear|my stomach growl?
+ICHIGO	11	楽しそー！行ってみよっか	Ooh, that looks fun! Let's go!
+ICHIGO	12	高いところは得意なんだぁ！	Heights? Bring 'em on!
+ICHIGO	13	いい天気になってよかったね	Lucky us, the weather's perfect!
+ICHIGO	14	今日のお昼は期待しててね	You're gonna love lunch today.|Just you wait!
+ICHIGO	15	あ！バス来たね、じゃあ行こっか！	Oh, here comes the bus! Come on!
+ICHIGO	16	わーい！着いたねー！	Yaaay! We made it!
+ICHIGO	17	わぁ！あのアトラクションすごく濡れそうだなぁ！	Whoa, look at that ride!|We're gonna get totally soaked!
+ICHIGO	18	ううん、今日は全制覇するって決めたもん	No way! Today we ride everything.|I already decided!
+ICHIGO	19	そうだね、お店でかわいいタオル売ってたし	Good idea! The shop had some|really cute towels, too.
+ICHIGO	20	え？ありがとう。準備がいいんだね！	Huh? For me? Thanks!|You really thought of everything!
+ICHIGO	21	新しいアトラクションがもうすぐできるみたいだね！	Looks like there's a new ride|opening soon!
+ICHIGO	22	ホントにそう思ってる？？	Do you actually mean that??
+ICHIGO	23	そうだね、また誘ってね！	Yeah! You'd better invite me again!
+ICHIGO	24	うん！スリルがあるの、私大好き！	Mm-hm! I love scary rides!
+ICHIGO	25	どこか移動しない？	Wanna go somewhere else?
+ICHIGO	26	うん、いいよ！	Sure, sounds good!
+ICHIGO	27	お腹すいたね～？	I'm getting kinda hungry...
+ICHIGO	28	あのね・・・、お弁当作ってきたんだぁ	So, um... I made us lunch!
+ICHIGO	29	う～ん、いいよぉ	Hmm... okay, I guess.
+ICHIGO	30	う～ん・・・、いいよぉ	Hmmm... fine, okay.
+ICHIGO	31	あ！あそこに座って食べようよぉ！	Ooh, let's sit over there and eat!
+ICHIGO	32	頑張って作ってきたんだけどどうかな？	I tried really hard on it...|Is it any good?
+ICHIGO	33	はいっ、あーーん！	Here, say "aaah"!
+ICHIGO	34	お弁当おいしかったね♪	That lunch was so good♪
+ICHIGO	35	うぇぇぇぇ、ほんとに入るのぉ？	Eeeek... we're seriously going in?
+ICHIGO	36	・・・ちょっと怖いかも	...Okay, maybe I'm a little scared.
+ICHIGO	37	怖いよぉ・・・、しばらくギュッとしてていい？	I'm scared... Can I hold on|to you for a bit?
+ICHIGO	38	ううー、怖かったね・・・	Ugh, that was terrifying...
+ICHIGO	39	相性占ってみようよ！	Let's see if we're compatible!
+ICHIGO	40	ドキドキ・・・	My heart's pounding...
+ICHIGO	41	やったー相性ばっちりだって！	Yesss! It says we're a perfect match!
+ICHIGO	42	えへへ、次いこっか？	Ehehe... where to next?
+ICHIGO	43	観覧車ってドキドキするね	Ferris wheels always make|my heart race.
+ICHIGO	44	わー、いい景色ぃー！	Wow, what a view!
+ICHIGO	45	わわわ！あ・・・ありがとう	Wah! Th-thanks...
+ICHIGO	46	えへへ、また乗ろうね♪	Ehehe, let's ride it again sometime♪
+ICHIGO	47	この甘いにおいは・・・チュロスだぁ！食べようよ！	Smell that? Churros!|We have to get some!
+ICHIGO	48	じゃあ、いこいこっ！	Then come on, come on!
+ICHIGO	49	えーっ！？一緒に行こうよー！	Whaaat? No, come with me!
+ICHIGO	50	どうしたの？具合悪いの？	What's wrong? Are you feeling okay?
+ICHIGO	51	遊園地ってほんとに楽しいなぁ！	I love amusement parks so much!
+ICHIGO	52	うん、そうだね！	Yeah, totally!
+ICHIGO	53	そ、そうだね	Y-yeah...
+ICHIGO	54	あ、ヒーローショーだ！正義は勝つ！ってね♥	Ooh, a hero show!|"Justice always wins!"♥
+ICHIGO	55	帰りにお土産買って帰ろうね！	Let's grab souvenirs on the way out!
+ICHIGO	56	時間が経つのが早く感じちゃうね	Time's going by way too fast...
+ICHIGO	57	ふふふ、楽しいね！	Hehe, this is so fun!
+ICHIGO	58	もっといっぱい遊びたいな！	I don't wanna stop yet!
+ICHIGO	59	のど渇いたね	I'm so thirsty...
+ICHIGO	60	遊園地ってほんとに楽しいなぁ	Today's been so much fun...
+ICHIGO	61	今日は全部のアトラクション回ろうね！	We're doing every single ride today!
+ICHIGO	62	あぁ！楽しかった！	Aah, that was awesome!
+ICHIGO	63	時間も遅いし、今日はもう帰ろっか！	It's getting late...|Guess we should head home.
+ICHIGO	64	ナイトパレードだ！行ってみようよ！	It's the night parade!|Come on, let's go see!
+ICHIGO	65	パレードすっごくきれいだね	The parade's so beautiful...
+ICHIGO	66	今日は連れてきてくれてありがとう！	Thanks for bringing me today!
+ICHIGO	67	二人きりだとなんだかドキドキしちゃうね？	Just the two of us like this...|it makes my heart race a little.
+ICHIGO	68	もっと前に行ってみようよ！	Let's get closer to the front!
+ICHIGO	69	あ、あのね・・・	H-hey, um...
+ICHIGO	70	私あなたのことが・・・	The thing is, I... I really...
+ICHIGO	71	えへへ、やっぱりなんでもない	Ehehe... never mind. Forget it!
+ICHIGO	72	大好きだよ！	I love you!
+ICHIGO	73	こんな夜遅くに呼び出してごめんね、やっぱりどうしても伝えたいことがあって・・・	Sorry for dragging you out so late.|I just really needed to tell you...
+CHOICE	0	制服姿も可愛いよ	You look cute in your uniform, too.
+CHOICE	1	とっても似合うよ	It looks great on you.
+CHOICE	2	すごく可愛いよ	You look adorable.
+CHOICE	3	まだちょっと眠いけどね	I'm still half asleep, honestly.
+CHOICE	4	目が覚めるよ	Yeah, it wakes me right up.
+CHOICE	5	心が引き締まるようだよ	It really gets me in the zone.
+CHOICE	6	涼しくなれる所に行かない？	Let's find somewhere to cool off.
+CHOICE	7	高い所は好き？	How do you feel about heights?
+CHOICE	8	まずは腹ごしらえしない？	Food first?
+CHOICE	9	やめておく？	Wanna skip this one?
+CHOICE	10	先に拭くもの用意しておこうか	Let's grab towels before we go.
+CHOICE	11	タオル持ってきたよ	Don't worry, I brought a towel.
+CHOICE	12	楽しみだね	Can't wait!
+CHOICE	13	出来たらまた来ようね	Let's come back when it opens.
+CHOICE	14	結構怖そうだね	That looks kinda scary...
+CHOICE	15	そろそろ、お昼にしようか？	Lunch time?
+CHOICE	16	お化け屋敷に行こう！	Haunted house!
+CHOICE	17	占いの館で相性占いしよう？	Let's get our fortune read!
+CHOICE	18	観覧車に乗ろうか！	Ferris wheel!
+CHOICE	19	先に占いの館へ行かない？	Fortune teller first?
+CHOICE	20	先にお化け屋敷へ行かない？	Haunted house first?
+CHOICE	21	観覧車の後にしない？	After the Ferris wheel, maybe?
+CHOICE	22	じゃあ買ってくるよ	I'll go get some.
+CHOICE	23	（もうお腹いっぱいだな…）	(Ugh, I'm still stuffed...)
+CHOICE	24	そうだね	Yeah, for sure.
+CHOICE	25	この景色を撮っていかないとね	We've gotta get a picture of this.
+CHOICE	26	ほんと楽しいね	This is really fun.
+CHOICE	27	一緒に居られて幸せだよ	I'm just happy to be here with you.
+CHOICE	28	あ、バス行っちゃった	Oh... we missed the bus.

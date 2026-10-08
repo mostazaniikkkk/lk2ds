@@ -1,0 +1,4 @@
+numpy
+pillow
+UnityPy
+imageio-ffmpeg

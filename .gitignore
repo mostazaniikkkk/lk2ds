@@ -1,0 +1,19 @@
+# Original game data and everything derived from it is never committed
+/data/
+/build/
+/game/build/
+/game/data/*
+!/game/data/.gitkeep
+/game/pak_src/
+/game/nitrofs/
+/game/include/*
+!/game/include/.gitkeep
+/game/icon.gif
+/game/*.nds
+/game/*.elf
+/third_party/
+/tools/*_files.txt
+/tools/song_list.txt
+__pycache__/
+*.pyc
+*.sav
