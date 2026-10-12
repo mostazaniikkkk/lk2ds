@@ -1,5 +1,5 @@
 """Song list of the machine (SONIC MODE song select, Sn_Ha09: titles in image bank RSC 1944, songs SD_BGM_Ha09_NN):
-every song complete (intro + one pass of its loop), as a FastVideoDS clip streamed from lk2ds/movies (too long
+every song complete (intro + one pass of its loop), as a FastVideoDS clip streamed from data/lk2ds/movies (too long
 for RAM as a BGM): a still card with the title, 30 fps.
 
 Writes game/data/song_NN.bin (+ gal_song_NN card previews 256x144 LZ for the gallery) and tools/song_list.txt.

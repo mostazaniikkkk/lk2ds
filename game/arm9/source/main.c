@@ -58,7 +58,7 @@ static void stage(u16 color)
     BG_PALETTE[0] = color;
 }
 
-// "fat:/lk2ds/movies/<file>" (same drive as the ROM): FastVideoDS streams each clip from its own file
+// "fat:/data/lk2ds/movies/<file>" (same drive as the ROM): FastVideoDS streams each clip from its own file
 static const char *video_path(video_id_t id)
 {
     static char path[96] ALIGN(32);
@@ -74,7 +74,7 @@ static const char *video_path(video_id_t id)
     {
         memcpy(path, rom, n);
     }
-    snprintf(path + n, sizeof(path) - n, "/lk2ds/movies/%s", sVideoFile[id]);
+    snprintf(path + n, sizeof(path) - n, "/data/lk2ds/movies/%s", sVideoFile[id]);
     DC_FlushRange(path, sizeof(path));
     return path;
 }
@@ -167,7 +167,7 @@ static void opening_vblank(void)
 }
 
 // boot opening (the BIG clip over "Resonation Wings", Sn_Dd01_0001): top screen, centred, skippable
-// a clip from lk2ds/movies on the top screen, centred and skippable (opening, gallery movies);
+// a clip from data/lk2ds/movies on the top screen, centred and skippable (opening, gallery movies);
 // the bottom screen shows "PRESS START TO SKIP". Leaves both screens black.
 void play_movie(int vid)
 {

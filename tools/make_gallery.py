@@ -1,6 +1,6 @@
 """Gallery (unlocked with the credits won in SIMULATOR mode): CG stills, movies and music.
 
-Items reuse what the game already has: date sim stills (pak), FastVideoDS clips (lk2ds/movies), BGMs (pak).
+Items reuse what the game already has: date sim stills (pak), FastVideoDS clips (data/lk2ds/movies), BGMs (pak).
 Writes into game/data (moved into the pack by make_pak.py, list in tools/gallery_files.txt):
   gal_page_<tab>_<n>_lz.bin   bottom screen of one page: tabs + 3x3 thumbnails (prices / locks drawn at runtime)
   gal_prev_<i>_lz.bin         top screen preview 256x144 of movie / music items (CG items show their still)

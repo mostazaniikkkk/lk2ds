@@ -9,7 +9,7 @@ TTY=""
 [ -t 1 ] && TTY="-t"
 if [ $# -eq 0 ]; then
     # build the ROM, then put it in build/sd: melonDS uses that folder as its SD card (DLDI FolderSync),
-    # with the clips in build/sd/lk2ds/movies (tools/make_pak.py)
+    # with the clips in build/sd/data/lk2ds/movies (tools/make_pak.py)
     MSYS_NO_PATHCONV=1 docker run --rm $TTY -e LC_ALL=C.UTF-8 -v "$HOST_DIR:/work" -w /work lk2ds-dev make -C game -j8
     mkdir -p build/sd
     cp game/lk2ds.nds build/sd/lk2ds.nds

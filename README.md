@@ -30,12 +30,14 @@ lever and the slide-in panel, all touch-driven. The text is translated to Englis
 
 Made for the **DSpico**; tested in melonDS. It runs from any flashcart with a working DLDI driver (ARM7-capable
 drivers are used directly, ARM9-only ones through a sector proxy). The game reads its own `.nds` and the movie
-files from the card, so it needs the files below on the card and roughly 750 MB of space.
+files from the card, so it needs the files below on the card and roughly 750 MB of space. Like an Android app's
+external data, the movies live in `data/lk2ds` at the root of the card; the ROM and its save can go in any folder
+(e.g. `/games`), as long as the `.sav` sits next to the `.nds` with the same name.
 
 ```
-/lk2ds.nds
-/lk2ds.sav              (4 KB, created by the build)
-/lk2ds/movies/*.fv      (all videos and songs)
+/games/lk2ds.nds
+/games/lk2ds.sav             (4 KB, created by the build)
+/data/lk2ds/movies/*.fv      (all videos and songs)
 ```
 
 ## Building
@@ -68,7 +70,7 @@ On Windows, use Git Bash for the shell scripts.
    scene data, bakes in the English text (date sim script in [`tools/date_text`](tools/date_text), the rest in
    the tools), packs everything and builds the ROM. The full run takes a while (it composites thousands of frames);
    steps can be run alone, e.g. `build_assets.py base pack`.
-4. Copy the contents of `build/sd/` to the root of the SD card.
+4. Copy `build/sd/data/` to the root of the SD card and `lk2ds.nds` + `lk2ds.sav` to your games folder.
 
 After the first build, `./build.sh` rebuilds only the code.
 
