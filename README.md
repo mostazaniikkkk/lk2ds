@@ -28,8 +28,11 @@ lever and the slide-in panel, all touch-driven. The text is translated to Englis
 
 ## Hardware
 
-Made for the **DSpico**; tested in melonDS. It runs from any flashcart with a working DLDI driver (ARM7-capable
-drivers are used directly, ARM9-only ones through a sector proxy). The game reads its own `.nds` and the movie
+> **Status: emulator only.** The game currently runs correctly only in **melonDS** (DLDI with an SD folder).
+> On real hardware (DSpico) it has known problems and is not playable yet.
+
+Made for the **DSpico**, but tested only in melonDS so far. The code supports any flashcart with a working DLDI
+driver (ARM7-capable drivers are used directly, ARM9-only ones through a sector proxy). The game reads its own `.nds` and the movie
 files from the card, so it needs the files below on the card and roughly 750 MB of space. Like an Android app's
 external data, the movies live in `data/lk2ds` at the root of the card; the ROM and its save can go in any folder
 (e.g. `/games`), as long as the `.sav` sits next to the `.nds` with the same name.
